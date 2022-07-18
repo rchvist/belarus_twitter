@@ -1,0 +1,9 @@
+/.vscode
+/config.yaml
+/data/*
+!/data/timeline_events_short.xlsx
+/figures
+/geo_parsing
+/old_NLP
+/results
+/__pycache__
