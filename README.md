@@ -1,4 +1,4 @@
-﻿# Protests and mobilization in Belarus (2020) : a Twitter data analysis
+﻿# Twitter activity during Protests and mobilization in Belarus (2020)
 ## Description
 This repo contains code used for the collection, descriptive quantitative analysis, and topic modelling of Twitter data related to the crisis of 2020 in Belarus. This was done as part of the [MOBILISE research project](https://mobiliseproject.com/). Each step of our analysis is extensively described [here](docs/analysis_steps.pdf).
 The main goal of this repo is to allow researchers to replicate our methodology, as well as re-purpose code for future projects.
